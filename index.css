@@ -1,0 +1,254 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.para {
+    margin: 4px;
+    padding: 4px;
+}
+header {
+    align-items: center;
+    text-align: center;
+}
+.logo {
+    margin: 33px;
+}
+.heading_pic {
+    padding: 49px 130px;
+    background-image: url(https://princepapneja.github.io/verlien/assests/img/Verlein%20-%20AlimaVerlein%2026_08_20202206%201.png);
+    background-size: cover;
+    min-height: calc(100vh - 23px - 84px);
+    height: 100%;
+}
+.heading {
+    margin-top: 61px;
+    font-size: 80px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.btn {
+    background: none;
+    color: white;
+    border: 1px solid white;
+    padding: 20px;
+    margin-top: 60px;
+}
+.btn:hover {
+    color: white;
+    background-color: rgb(206, 205, 202);
+}
+.container {
+    max-width: 394px;
+    font-size: 17px;
+    width: 100%;
+    padding-bottom: 114px;
+    padding-top: 146px;
+    margin: auto;
+    font-family: 'Raleway', sans-serif;
+}
+.item {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.newpic {
+    background-image: url("https://princepapneja.github.io/verlien/assests/img/Verlein%20-%20AlimaVerlein%2026_08_20202107%201.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+    max-width: 380px;
+    width: 100%;
+    height: 495px;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    padding: 135px 25px;
+}
+.simple {
+    text-align: center;
+}
+.img_para {
+    margin-top: 402px;
+    font-size: 22px;
+    font-family: sans-serif;
+    color: white;
+}
+.btn_two {
+    background: none;
+    color: white;
+    border: 1px solid white;
+    padding: 21px 16px;
+    margin-top: 39px;
+}
+.btn_two:hover {
+    color: gray;
+    background-color: #adf8e9;
+}
+.all {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.imgs {
+    height: 380px;
+    width: 438px;
+}
+.pic {
+    height: 627px;
+}
+.conta {
+    margin-top: 130px;
+    margin-bottom: 70px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.cot {
+    display: grid;
+    grid-template-columns: 306px 306px 306px;
+    margin-left: 130px;
+}
+.box-1 {
+    max-width: 380px;
+    width: 100%;
+    max-height: 500px;
+    height: 100%;
+}
+.view {
+    padding: 10px 15px;
+    width: 100px;
+}
+.ner {
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 130px;
+}
+.view:hover {
+    background-color: rgb(144, 139, 139);
+    color: black;
+}
+.picture {
+    background-image: url(https://princepapneja.github.io/verlien/assests/img/Verlein%20-%20AlimaVerlein%2026_08_20202315%201.png);
+    height: 810px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.now {
+    max-width: 394px;
+    width: 100%;
+    margin-top: 130px;
+    margin-bottom: 64px;
+    text-align: center;
+    margin-left: 193px;
+    font-family: 'Raleway', sans-serif;
+}
+.otherone {
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.more {
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+    font-family: "League Spartan", sans-serif;
+    margin-top: 129px;
+}
+.facade {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.line {
+    width: 350px;
+    margin-top: 70px;
+    max-width: 380px;
+    width: 100%;
+    height: 500px;
+}
+.picturetwo {
+    background-image: url(https://princepapneja.github.io/verlien/assests/img/Verlein%20-%20AlimaVerlein%2026_08_20202381%201.png);
+    height: 810px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.viewtwo {
+    padding: 10px 15px;
+    width: 100px;
+}
+.insta {
+    display: grid;
+    text-align: center;
+}
+.instalogo {
+    margin-top: 129px;
+}
+h3 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+}
+.official {
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    margin-bottom: 70px;
+}
+.photos {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.photo_one {
+    width: 214px;
+    height: 280px;
+    margin-left: 129px;
+    margin-right: 19px;
+}
+.photo_two {
+    width: 214px;
+    height: 280px;
+    margin-left: 19px;
+    margin-right: 19px;
+}
+.photo_three {
+    width: 214px;
+    height: 280px;
+    margin-left: 19px;
+    margin-right: 19px;
+}
+.photo_four {
+    width: 214px;
+    height: 280px;
+    margin-left: 19px;
+    margin-right: 129px;
+}
+.oneline {
+    background-color: #d8d8d8;
+    max-width: 1180px;
+    width: 100%;
+    height: 2px;
+    margin-top: 70px;
+}
+.mainclass {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    margin-top: 75px;
+    margin-bottom: 70px;
+}
+.Coustomer {
+    margin-bottom: 5px;
+}
+.verlien {
+    width: 111px;
+}
+.imgtwo {
+    margin-left: 24px;
+}
+.imgthree {
+    margin-left: 24px;
+}
+.email {
+    border: none;
+    outline: none;
+    color: gray;
+    border-bottom: 2px solid lightgray;
+}
